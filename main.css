@@ -1,11 +1,10 @@
-<<<<<<< HEAD
 * {
   margin: 0 0;
   padding: 0 0;
 }
 
 body {
-  background: url(assets/freedom.jpg) no-repeat center;
+  background: url(assets/freedom.jpg) no-repeat center/cover;
   width: 100vw;
   height: 100vh;
   position: relative;
@@ -30,6 +29,4 @@ body {
   letter-spacing: .1rem;
   line-height: 1.6;
 }
-=======
 
->>>>>>> 17635139de34bca28752073c97f24cfbca4e0064
